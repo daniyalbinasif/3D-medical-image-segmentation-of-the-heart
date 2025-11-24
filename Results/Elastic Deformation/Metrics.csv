@@ -1,0 +1,4 @@
+case,experiment,Dice,Precision,Sensitivity,Hausdorff distanc
+pat_018.nii,Elastic_Deformation_Augmentation,0.926136753,0.892964204,0.961869035,2.236067977
+pat_019.nii,Elastic_Deformation_Augmentation,0.87882935,0.865017961,0.893088938,2.236067977
+pat_020.nii,Elastic_Deformation_Augmentation,0.897700112,0.921939777,0.874702412,2.236067977
